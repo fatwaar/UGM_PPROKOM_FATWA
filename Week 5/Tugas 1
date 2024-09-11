@@ -1,1 +1,7 @@
-
+i=1
+j=10
+while i<=10:
+    print(i,end=' ')
+    i+=1
+    print(j,end=' ')
+    j-=1
